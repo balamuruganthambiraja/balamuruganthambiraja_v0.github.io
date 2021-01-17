@@ -1,11 +1,11 @@
 ---
-layout: single
+layout: posts
 permalink:  /projects/
 title: "Projects"
 author_profile: true
 ---
 
-## Human model learning from RGB with depth assistance
+<!-- ## Human model learning from RGB with depth assistance
  We propose RGB-D based self supervised training of a deep network that (i) learns to predict the pose parameters of a human from an RGB image. (ii) learns to regress shape and person specific shape displacements which enables use of the method for scale-aware 3D reconstruction task. Check out the project [here](/projects/HumanModelLearning/)
 
 ## Extending PointNet for Localization
@@ -16,4 +16,4 @@ author_profile: true
 
 ## Interactive 3D shape deformation using ARAP
 
-## Density based Traffic Control System using Image Processing
+## Density based Traffic Control System using Image Processing -->

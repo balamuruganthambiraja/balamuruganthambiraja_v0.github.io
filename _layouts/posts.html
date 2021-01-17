@@ -4,7 +4,7 @@ layout: archive
 
 {{ content }}
 
-<ul class="taxonomy__index">
+<!-- <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
     <li>
@@ -13,12 +13,12 @@ layout: archive
       </a>
     </li>
   {% endfor %}
-</ul>
+</ul> -->
 
 {% assign postsByYear = site.posts | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
   <section id="{{ year.name }}" class="taxonomy__section">
-    <h2 class="archive__subtitle">{{ year.name }}</h2>
+    <!-- <h2 class="archive__subtitle">{{ year.name }}</h2> -->
     <div class="entries-{{ page.entries_layout | default: 'list' }}">
       {% for post in year.items %}
         {% include archive-single.html type=page.entries_layout %}
