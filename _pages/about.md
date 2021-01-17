@@ -1,5 +1,6 @@
 ---
 title: "About me !"
+layout: single
 permalink: /
 author_profile: true
 excerpt: "Welcome to my personal webpage"
@@ -10,3 +11,6 @@ Hi! I am a M.Sc. Informatics student at Technical university of Munich specializ
 Also, I am currently working as an AI/Computer Vision research work student at Osram GmbH, Where I work on developing computer vision and machine learning algorithmns for drive monitoring systems.
 
 Checkout my [CV](/pdfs/BalamuruganThambiraja_CV.pdf)
+
+
+version: 1
