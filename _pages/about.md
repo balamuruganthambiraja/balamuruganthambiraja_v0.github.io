@@ -1,8 +1,12 @@
 ---
-permalink: /about/
-title: "About"
+title: "About me !"
+<!-- permalink: / -->
+author_profile: true
+excerpt: "Welcome to my personal webpage"
 ---
-version :1 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hi! I am a M.Sc. Informatics student at Technical university of Munich specializing in computer vision, deep learning and machine learning. I recently started my master thesis at TUM [Visual computing group](http://www.niessnerlab.org/index.html) headed by [Prof.Dr.Mathiass Niessner](http://www.niessnerlab.org/members/matthias_niessner/profile.html). Previously, I have completed a research project with the same chair on the topic "Human model learning from RGB with depth assistance."
+
+Also, I am currently working as an AI/Computer Vision research work student at Osram GmbH, Where I work on developing computer vision and machine learning algorithmns for drive monitoring systems.
+
+Checkout my [CV](/pdfs/BalamuruganThambiraja_CV.pdf)
